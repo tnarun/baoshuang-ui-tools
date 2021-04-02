@@ -23,8 +23,12 @@ https://e.chuanying520.com/
   可先实现原型，进行一定的讨论迭代之后再与数据展示组件进行集成；  
   此工作目前提交到：**操作界面原型工程**  
   https://github.com/tnarun/baoshuang-ui-tools-ide  
-  由 [Pegaiur](https://github.com/Pegaiur) 推进
+  由 [@Pegaiur](https://github.com/Pegaiur) 推进
 
 - 实现一个用于管理图片资源和装备/道具类基础数据资源的后端服务；  
   以及用于管理资源的前端界面；  
   具体推进待定。
+
+## 架构概要
+
+![image](https://user-images.githubusercontent.com/322486/113372136-85903800-939a-11eb-976a-d5e380aa1829.png)
