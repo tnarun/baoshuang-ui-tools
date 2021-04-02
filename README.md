@@ -17,13 +17,13 @@ https://e.chuanying520.com/
   目的是理清数据展示呈现类组件的结构设计；  
   此工作目前提交到：**DEMO / 前端原型工程**  
   https://github.com/tnarun/baoshuang-ui-tools-demo  
-  由 @ben7th 推进
+  由 [@ben7th](https://github.com/ben7th) 推进
   
 - 实现一个用于对 UI 组件进行选择/布局编排以及参数设置、输入数据设置的操作界面；  
   可先实现原型，进行一定的讨论迭代之后再与数据展示组件进行集成；  
   此工作目前提交到：**操作界面原型工程**  
   https://github.com/tnarun/baoshuang-ui-tools-ide  
-  由 @Pegaiur 推进
+  由 [Pegaiur](https://github.com/Pegaiur) 推进
 
 - 实现一个用于管理图片资源和装备/道具类基础数据资源的后端服务；  
   以及用于管理资源的前端界面；  
