@@ -7,9 +7,17 @@
 待完成以下工作阶段后，在此工程放置代码：
 
 本项目最终产品为 sass 工具，使用方式类似：  
-https://www.photopea.com/  
-https://e.chuanying520.com/  
+
+- https://www.photopea.com/  
+- https://e.chuanying520.com/  
+
 这样的工具  
+
+## 项目看板
+
+由于目前参与人数不多，使用较简单的看板方式对项目进行工作记录管理；
+看板地址：  
+https://github.com/orgs/tnarun/projects/1
 
 ## 项目当前推进计划摘要
 
